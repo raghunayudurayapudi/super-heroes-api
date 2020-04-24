@@ -12,11 +12,11 @@ What you need to run this project:
 ```
 npm install
 ```
-## 2. Install dependencies
+## 2. run app in dev
 ```
 npm run dev
 ```
-## 3. Install dependencies
+## 3. run tests
 ```
 npm test
 
@@ -56,9 +56,9 @@ req-body =  {
 
 5) Delete Hero from Group - Delete - http://localhost:5000/api/teams/:id/:heroId
   pass the teamId and hero Id as the path parameter.
-
+```````  
 #Heroes
-
+``````
 1) get heroes - GET -  http://localhost:5000/api/heroes .
     get hero by ID - GET - http://localhost:5000/api/heroes/:id
 
